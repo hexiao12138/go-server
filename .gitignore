@@ -13,8 +13,7 @@ dist-ssr
 *.local
 
 # Editor directories and files
-private.key
-public.key
+*.key
 .vscode/*
 !.vscode/extensions.json
 .idea
