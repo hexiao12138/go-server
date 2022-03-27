@@ -13,8 +13,8 @@ dist-ssr
 *.local
 
 # Editor directories and files
-go-server/private.key
-go-server/public.key
+!go-server/private.key
+!go-server/public.key
 .vscode/*
 !.vscode/extensions.json
 .idea
